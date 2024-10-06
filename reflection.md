@@ -1,7 +1,5 @@
 Use this file to record your reflection on this assignment.
 
-- Which classmates did you consult with while working on this assignment?
-- Which session(s) of TA / office hours did you attend?
-- What are your initial impressions of Java? 
-- Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 
-- What worked, what didn't, what advice would you give someone taking this course in the future?
+I went to TA hours, Ashby and Chris were there. I also had a little discussions with Bebe and Nicole. They are both in my section. We talked about it last Sunday. I would say that Java is very different from what I was used to last semester, Python. I would forget to put ; on the end my each line so that was something I am getting used to. I would say the syntax is different to but I am now remembering them. However, the logic on how I code in Python is still the same with Java, I actually revisited some of my CSC 110 notes for this homework. My existing knowledge helped a lot, especially with the loops, the logic, the turning the string to lowercase, the using of split, the using of random. Java is really more on object oriented while Python is heavily relies on procedures. In Java, I had to create objects in which I later used on the latter parts of the code. What worked is that I had a scratch note with me and listed the ways I could make this homework work and I had my CSC 110 notes too which helped me a lot. My advice for those who will take this class is to revisit you past knowledge or past notes. It will help a lot.
+
+Additional Reflection (by 10/6): When I was revising my past code, I made a few changes to it was crashing. I genuinely did not know what to do at that time so I went to TA hours. I also started a new code just in case, the structure was kind of different from my initial one but I surely had the same ideas going into the new one. And gladly, I was able to make it work, yay! My advice for someone who will take this class is to never be afraid to start a new code. It is something that might be needed if all things are not working out anymore.
